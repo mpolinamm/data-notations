@@ -1,0 +1,20 @@
+<transportmeans>
+    <transport type = "private" mean = "car">
+        <brand>Toyota</brand>
+        <model>RAV4</model>
+        <year>2018</year>
+        <color>Black</color>
+    </transport>
+    <transport type = "public" mean = "tram">
+        <brand>PESA</brand>
+        <model>120N</model>
+        <year>2022</year>
+        <color>Blue</color>
+    </transport>
+    <transport type = "public" mean = "bus">
+        <brand>Solaris</brand>
+        <model>Urbino18</model>
+        <year>2022</year>
+        <color>Blue</color>
+    </transport>
+</transportmeans>
