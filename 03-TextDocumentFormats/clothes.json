@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Vivienne Westwood",
+        "founded": 1971,
+        "headquarters": "London, UK",
+        "employees": 620,
+        "products": [
+            "Clothing",
+            "Footwear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Miu Miu",
+        "founded": 1992,
+        "headquarters": "Milan, Italy",
+        "employees": 350,
+        "products": [
+            "Clothing",
+            "Footwear",
+            "Accessories"
+        ]
     }
 ]
